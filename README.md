@@ -4,7 +4,7 @@ Software developer based in Bamberg, Germany
 
 ## Technical Job Experience
 
-5 Years experience developing PROGRESS OPEN EDGE desktop applications running on windows OS or linux distribution. 
+5 Years experience developing PROGRESS OPEN EDGE desktop applications running on windows OS or linux distribution
 Associated frontend developed on .NET componentes adapted to PROGRESS OPEN EDGE and JAVA RCP.
 
 Beside of programming experience there is several stuff involved. Lets take Database administration for example specifically with PROGRESS OPEN EDGE but also database architecture in general. 
