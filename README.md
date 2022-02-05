@@ -3,11 +3,12 @@
 Software Entwickler wohnhaft in Bamberg, Deutschland
 
 ## Technische Job Erfahrung 
-5-jährige Erfahrung in der Entwicklung von Desktop Anwendungen geschrieben in PROGRESS OPEN EDGE für Windows und Linux-Distributionen.
-Die Desktop Programmoberfläche wurde mit PROGRESS OPEN EDGE .NET Komponenten oder JAVA RCP erstellt. Für die Entwicklung der Web Oberfläche wurde das Vaadin Web Framework verwendet. Durch die Trennung von Business- und Frontend-Logik konnte eine plattformübergreifende Anwendung geschaffen werden. 
+Mit meiner 5-jährigen Erfahrung in der Entwicklung von ERP Systemen geschrieben in PROGRESS OPEN EDGE für Windows und Linux-Distributionen konnte ich bereits ein solides Know How erlangen, wie Arbeitsprozeses in der Wirtschaft gelebt und diese technisch modelliert werden können.
+Die Desktop Programmoberfläche wurde mit PROGRESS OPEN EDGE .NET Komponenten oder JAVA RCP erstellt. Für die Entwicklung der Web Oberfläche wurde das Vaadin Web Framework verwendet. Durch die Trennung von Business- und Frontend-Logik konnte eine plattformübergreifende Anwendung geschaffen und die Arbeit in Teams aufgeteilt werden. 
 
 ## Technische Freizeit Erfahrung
-
+Es gibt mittlerweile viele etablierte Programmiersprachen, moderne und praktisch sehr einfach zu verwendende Frameworks oder Libraries von denen man gehört haben sollte. Auch  ein "Hello World" Projekt in einer der aktuell auf dem Markt vorhandenen IDEs aufzusetzen und sich technisch stetig weiterzubilden ist persönlich für mich ein Must-Do geworden. 
+Während man in den Projekten des eigenen Arbeitsverhältnisses, aufgrund von festen Deadlines, kaum die Zeit hat sich weit mit all den neuen Technologien ausseinanderzusetzen versuche ich dies in meiner Freizeit durch kleine erdachte praktische Projekte nachzuholen.  
 
 ---------
 
