@@ -10,6 +10,9 @@ Die Desktop Programmoberfläche wurde mit PROGRESS OPEN EDGE .NET Komponenten od
 Es gibt mittlerweile viele etablierte Programmiersprachen, moderne und praktisch sehr einfach zu verwendende Frameworks oder Libraries von denen man gehört haben sollte. Auch  ein "Hello World" Projekt in einer der aktuell auf dem Markt vorhandenen IDEs aufzusetzen und sich technisch stetig weiterzubilden ist persönlich für mich ein Must-Do geworden. 
 Während man in den Projekten des eigenen Arbeitsverhältnisses, aufgrund von festen Deadlines, kaum die Zeit hat sich weit mit all den neuen Technologien ausseinanderzusetzen versuche ich dies in meiner Freizeit durch kleine erdachte praktische Projekte nachzuholen.  
 
+So habe ich Erfahrungen sammeln können in der Entwicklung von Web Anwendungen in C# mit Hilfe des ASP Frameworks unterstützt durch die ASP.NET Razor Syntax. Interessant war hier vorallem die Verwendung des MVC Architektur- und Entwurfsmusters mit einer SQL Datenbank. 
+Da ich durch dieses Projekt bereits Erfahrungen im MVC Design Pattern sammeln konnte, habe ich mich dazu entschieden gelerntes in einen weiteren Projekt anzuwenden. Hierbei habe ich das Web Framework Symfony verwendet, um eine Kalender Anwendung mit PHP Backend Logik für das Abspeichern von Terminen und den Login Daten der Kalendernutzer zu schreiben. Für das Frontend konnte ich mir dazu noch die Funktionen des Bootstrap Frontend-Frameworks anschauen und selbst mehr in JavaScript und CSS lernen. 
+
 ---------
 
 
@@ -27,8 +30,8 @@ Beside of programming experience there is several stuff involved. Lets take Data
 
 There are many programming languages, frameworks, libraries and communities you have to heard about. During working time and tough project deadlines you'll not get into it. So my purpose is to look beyond the box in leasure time. 
 
-Writing web applications with C#, .ASP supported by RAZZOR framework and based on MVC architector was instructive.
-From that point i've challenged myself with further web technologies. Especially intressting was the MVC framework symfony with PHP backend logic and all of the JavaScript, CSS and Bootstrap stuff in the front of the application. 
+Writing web applications with C# and ASP.NET Framework supported by ASP.NET Razor syntax and based on MVC architector was instructive.
+From that point i've challenged myself with further web technologies. Especially intressting was the MVC framework used with symfony framework, PHP backend logic and all of the JavaScript, CSS and Bootstrap stuff in the front of the application. 
 
 With this in mind i started to learn more about responsive web design and mobile friendly web applications with REACT, JavaScript and Next.js with MaterialUi styled components in the frontend. The simple authentication and database handling with firebase brightened my day as it has reminded me to my first web app written in C# with authentication handling written by myself supported by the RAZZOR framework. 
 
